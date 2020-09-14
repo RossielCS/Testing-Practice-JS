@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/RossielCS/Testing-Practice-JS#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
