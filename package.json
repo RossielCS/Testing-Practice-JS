@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-js",
+  "version": "1.0.0",
+  "description": "This project is focused on learning TTD (Test Driven Development) in JavaScript using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossielCS/Testing-Practice-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossielCS/Testing-Practice-JS/issues"
+  },
+  "homepage": "https://github.com/RossielCS/Testing-Practice-JS#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
