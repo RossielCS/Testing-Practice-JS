@@ -1,4 +1,4 @@
-const caesarCipher = (string, key) => {
+const caesar = (string, key) => {
   if (key === 0) return string;
 
   let encrypted = '';
@@ -28,4 +28,4 @@ const caesarCipher = (string, key) => {
   return encrypted;
 };
 
-export default caesarCipher;
+export default caesar;
