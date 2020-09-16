@@ -33,7 +33,7 @@ To run the project:
 `npm run test`
 
 ## :gem:  Features
-- Run tests to modules using Jest.
+- Unit tests to modules using Jest.
 
 ## :woman:  Author
 
