@@ -1,0 +1,35 @@
+{
+  "name": "testing-practice-js",
+  "version": "1.0.0",
+  "description": "This project is focused on learning TTD (Test Driven Development) in JavaScript using Jest.",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "server": "webpack-dev-server --open",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossielCS/Testing-Practice-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossielCS/Testing-Practice-JS/issues"
+  },
+  "homepage": "https://github.com/RossielCS/Testing-Practice-JS#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^26.4.2",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "^3.17.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
